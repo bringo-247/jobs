@@ -1,4 +1,4 @@
-# Задача №3 на вакансию junior fullstack developer C#/js
+# Задача №3 на вакансию junior backend developer C#/js
 
 Спроектируйте и реализуйте REST API для игры в крестики нолики
 
