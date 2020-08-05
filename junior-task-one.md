@@ -1,4 +1,4 @@
-# Задача №1 на вакансию junior full-stack developer C#/js
+# Задача №1 на вакансию junior backend developer C#
 
 Найдите изменения на множестве данных
 
